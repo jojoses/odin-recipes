@@ -1,2 +1,4 @@
 # odin-recipes
-Third test repo
+So far i have learned about version control with git and github. using SSH key encryptions, and ive been able to clone it from my github to my local machine. I have also made progress on understanding git commmands and best practice such as no more than 50 charcther limit. When comitting which is a good thumbrule. ive also learned git add, git push, git committ, staging and unstaging. and git pull. also git clone and git branch, git checkout, git version, gitstatus, branching and merging, sharing and updating, git push origin. and inspection and comparison. aka git log.
+
+This is meant to keep track incase you forget, the git commands /Version control that you learned earlier. In this particular project its about designing recipes. you can keep it simple or play around a little with css and html. Take look hope you get inspired.

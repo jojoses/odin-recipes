@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Montserrat&display=swap');
+* {
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+body {
+    font-family: Lobster,Monserrat,sans-serif;
+    background-color: rgba(100, 0, 240, 0.06);
+}
+
+h1 {
+    text-align: center;
+}
+
+p, li {
+    text-align: center;
+    margin: auto;
+    width: 80%;
+    padding: auto;
+}
+
+.recipe{
+    font-weight: 500;
+}
+
+ol li, ul li, .recipe{
+    text-align: justify;
+    margin: auto;
+    width: 50%;
+}
+
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    position: relative;
+}
+
+a{
+    color: black;
+}
+
+a:hover {
+    text-decoration: underline;
+    transition: ease 0.2s;
+}
